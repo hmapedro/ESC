@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "971946536170",
+    "project_id": "ericeira-surf-clube-5dc14",
+    "storage_bucket": "ericeira-surf-clube-5dc14.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:971946536170:android:d659a019f6036527c9bb93",
+        "android_client_info": {
+          "package_name": "org.ericeirasurfclube.userapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "971946536170-739v0fk6dnupnq4vj0uphbi8ih62bda8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbj4Mj9JUxB6p4GoqEIf6Zw81EYWNIgCo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "971946536170-739v0fk6dnupnq4vj0uphbi8ih62bda8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "971946536170-5lans1odohustd987kjhskkjp806s2m0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.ericeirasurfclube.userapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
